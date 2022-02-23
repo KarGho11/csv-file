@@ -1,0 +1,11 @@
+print(getwd())
+setwd ("/Users/karnv/Desktop/Bioinfo")
+print(getwd())
+data= read.csv("texttest.csv.txt")
+print(data)
+
+print(nrow(data))
+print(ncol(data))
+retval= subset (data,dept== "med")
+print(retval)
+setwd ("/Users/")
