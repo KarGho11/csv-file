@@ -1,0 +1,4 @@
+sr.no,marks,dept
+1,44,med
+2,56,med
+3,45,non-med
